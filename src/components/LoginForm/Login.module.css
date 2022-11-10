@@ -1,0 +1,15 @@
+.card {
+    margin-top: 80px;
+    border-radius: 10px;
+    background-color: rgb(168, 148, 127);
+    padding-bottom: 15px;
+}
+
+.label_div {
+    margin-top: 20px;
+}
+
+.label {
+    margin-bottom: 0px;
+    font-size: 30px;
+}

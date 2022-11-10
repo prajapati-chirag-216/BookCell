@@ -1,0 +1,25 @@
+.form-control {
+    background-color: rgb(232, 226, 219);
+    height: 40px;
+    border: none;
+    font-size: larger;
+    font-weight: 400;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
+
+.input-group {
+    border: 1px solid rgba(0, 0, 0, 0.215);
+    border-radius: 5px;
+}
+
+.invalid input {
+    border-color: red;
+    background: #fbdada;
+}
+
+label {
+    font-size: medium;
+}
